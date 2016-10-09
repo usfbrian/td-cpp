@@ -1,5 +1,5 @@
 #include <iostream>
-#include "TowerDefense.h"
+#include "TowerDefense.hpp"
 
 
 int main(int argc, char *argv[]) {
