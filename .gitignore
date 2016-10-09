@@ -5,5 +5,8 @@ lib/*
 # Ignore any executables
 bin/*
 
+# Ignore Doxyfile
+doc/Doxyfile
+
 # Ignore Mac-specific files
 .DS_Store
